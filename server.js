@@ -2,7 +2,7 @@
 This Bot demonstrates basic bot setup, a simple hello dialog and a waterfall.
 There's also a trigger action included for fun.
 
-It's part of the bot-education labs.
+It's part of the bot-education labs.   
 
 Try this out with a test dialog ("hi", "bye" or any words really).
 Does it work as expected?  Does it get stuck anywhere?  Any changes needed?
