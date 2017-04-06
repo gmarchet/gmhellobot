@@ -22,8 +22,8 @@ var restify = require('restify');
 
 // Connector options
 var botConnectorOptions = {
-    appId: process.env.MICROSOFT_APP_ID || "",
-    appPassword: process.env.MICROSOFT_APP_PASSWORD || ""
+    appId: process.env.MICROSOFT_APP_ID || "48af3251-a702-4376-a3aa-51d5cf113a77",
+    appPassword: process.env.MICROSOFT_APP_PASSWORD || "sCWWUW3BUXFNa5vzKhKtzxQ"
 };
 
 // Handle Bot Framework messages with a restify server
